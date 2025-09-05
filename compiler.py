@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-White Language Compiler - Fixed Version
-مترجم لغة White المحسن مع إصلاح الأخطاء
-"""
-
 import re
 import os
 import sys
@@ -1169,4 +1162,5 @@ def main():
     
 # تشغيل البرنامج
 if __name__ == "__main__":
+
     main()
